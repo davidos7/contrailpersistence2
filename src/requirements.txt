@@ -4,3 +4,4 @@ gunicorn
 dash-tools
 matplotlib
 numpy
+netCDF4

@@ -1,0 +1,11 @@
+name: Rolls-Royce Trent 1000-CE3
+OPR:            44.1    # ICAO Aircraft Engine Emissions Databank
+FPR:            1.7     # unknown
+BPR:            9.16    # ICAO Aircraft Engine Emissions Databank
+COT:            1585    # unknown
+eta_fan:        0.92    # unknown
+eta_compressor: 0.9     # unknown
+eta_turbine:    0.9     # unknown
+eta_transfer:   0.9     # unknown
+d_in:           2.85    # EASA Type Certificate
+type:           "turbofan"

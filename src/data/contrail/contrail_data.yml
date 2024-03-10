@@ -1,0 +1,6 @@
+final_diameter: 300     # The-Effects-of-Aircraft-Wake-Dynamics-on-Contrail, Ametsoc, Fig 2, 3 and 5
+mass_multiplier: 125    # The-Effects-of-Aircraft-Wake-Dynamics-on-Contrail, Ametsoc, Fig 8, B737, RH_i = 110%
+kerosene_RF: 0.050      # On the lifecycle of individual contrails and contrail cirrus, (AMS 2017), based on Schumann and Graff 2013
+hydrogen_RF: 0.0408     # 50 * (8/9.8), ratio taken from Cryoplane paper, page 52
+density: 0.0000131      # kg.m^-2, Measurements of the growth of the ice budget in a persisting contrail
+                        # 41.2 kg.m^-1 / pi * 1000^2 estimated effective radius of the contrail

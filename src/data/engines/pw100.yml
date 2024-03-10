@@ -1,0 +1,26 @@
+name: PW100 # Most Popular Turboprop as of 2016
+OPR:            27.3    # ICAO Aircraft Engine Emissions Databank, differs between -5B3 and -5B4
+FPR:            1.7     # GasTurb data file
+BPR:            5.7     # CFM website, differs between -5B3 and -5B4
+COT:            1585    # GasTurb data file
+eta_fan:        0.92    # unknown
+eta_compressor: 0.89    # GasTurb data file
+eta_turbine:    0.85    # GasTurb data file
+eta_transfer:   0.9     # unknown
+d_in:           1.735   # CFM website
+type:           "turboprop"
+
+#type:           "turbofan"
+
+#OPR:            15      # Wikipedia PW100 https://en.wikipedia.org/wiki/Pratt_%26_Whitney_Canada_PW100
+#FPR:            1.3     #
+#BPR:            60      # https://en.wikipedia.org/wiki/Bypass_ratio#:~:text=Turboprops%20have%20bypass%20ratios%20of,the%20airflow%20from%20turbofan%20nozzles.
+#COT:            1346    # Kelvin, Wikipedia PW100
+#eta_fan:        0.94    # https://www.jstage.jst.go.jp/article/tjsass/54/183/54_183_44/_pdf#:~:text=Two%20turbine%20inlet%20temperatures%20are,vary%20from%201.1%20to%201.4.
+#eta_compressor: 0.87    # https://www.jstage.jst.go.jp/article/tjsass/54/183/54_183_44/_pdf#:~:text=Two%20turbine%20inlet%20temperatures%20are,vary%20from%201.1%20to%201.4.
+#eta_turbine:    0.9    # https://www.jstage.jst.go.jp/article/tjsass/54/183/54_183_44/_pdf#:~:text=Two%20turbine%20inlet%20temperatures%20are,vary%20from%201.1%20to%201.4.
+#eta_transfer:   0.9     # https://www.jstage.jst.go.jp/article/tjsass/54/183/54_183_44/_pdf#:~:text=Two%20turbine%20inlet%20temperatures%20are,vary%20from%201.1%20to%201.4.
+#d_in:           0.657   # Wikipedia PW100'''
+
+# Thermodynamic Analysis of a Turboprop Engine with Intercooling and Heat Recovery
+# https://www.jstage.jst.go.jp/article/tjsass/54/183/54_183_44/_pdf#:~:text=Two%20turbine%20inlet%20temperatures%20are,vary%20from%201.1%20to%201.4.

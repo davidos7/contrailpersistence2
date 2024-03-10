@@ -1,0 +1,5 @@
+# Areas given by [width, height] (m)
+fuselage:
+    fore:   [2.75, 2.75]
+    aft:    [3.55, 3.55]
+hold:   [2.1, 1.05]

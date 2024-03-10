@@ -1,0 +1,39 @@
+name: Boeing 787-8
+# All units SI unless indicated otherwise
+dimensions:
+    overall_length:     56.72
+    fuselage_width:     5.77
+    fuselage_length:    56.72
+    fuselage_diameter:  5.88 # Average of width/height from https://modernairliners.com/boeing-787-dreamliner/boeing-787-dreamliner-specs/
+    wing_area:          360.5
+    wingspan:           60.12
+    chord_root:         11.87 # check
+    chord_tip:          1.69 # check
+    root_t_c:           0.134
+    tip_t_c:            0.088
+    thickness_to_chord: 0.111   # Average between (0.134 root and 0.088 tip)
+    wing_sweep:         32.2
+    airfoil_tech_f:     0.95    # 0.95 for supercritical, 0.87 for older conventional
+
+capacity:
+    max_seating:        360
+    water_volume:       136.7
+    cargo_length:       30.88
+    centre_tank_gap:    10.06
+    seat_pitch_inch:    32
+    seats_per_row:      9
+
+performance:
+    cruise_Mach:        0.85
+    max_Mach:           0.9
+    MTOW:               227.93  # t
+    MLW:                172.0   # t
+    MZFW:               161.0   # t
+    OEW:                119.95  # t
+    max_fuel_capacity:  126206  # L
+    ceiling:            13100
+
+fuel_burn:
+    k:                  0.015   # Unknown for 787, use average value
+    engines:            2
+    climb_range_factor_ratio: 0.8

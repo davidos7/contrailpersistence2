@@ -1,0 +1,3808 @@
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.700
+ Altitude (pressure)   35000. feet
+ KTAS                  403.5
+ KEAS                  224.6
+ KCAS                  234.9
+ Reynolds number       5.497  millions per metre
+ CL                    0.282  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01348    (72.7 %)
+ Cd Lift-Induced           0.00331    (17.9 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00057    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00118    ( 6.4 %)
+                           -------    --------
+ Cd Total                  0.01854    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.857  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.846  sq.metres  (38.0 %)
+ Stabiliser              0.390  sq.metres  ( 8.0 %)
+ Fin                     0.286  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.434  sq.metres  ( 8.9 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.858  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 15.22 
+ =================================
+ Total Lift Force      831608. newtons
+ Total Drag Force       54650. newtons (27325.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       2949. kg/hr
+ Specific Fuel Consumption (SFC)       0.5293 kg/hr/kgf
+ Specific Air Range (SAR)              .13681 nm/kg
+ Emissions Index, NOx                  9.05 g/kg.
+ Available Total Thrust at MCR:        122682. newtons
+ Available Total Thrust at MCL:        132023. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 84800.kg.:
+ RoC at MCR, constant Mach 0.700:      3570. feet/min
+ RoC at MCR, constant 235.KCAS:        2689. feet/min
+ RoC at MCL, constant Mach 0.700:      4061. feet/min
+ RoC at MCL, constant 235.KCAS:        3058. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.700
+ Altitude (pressure)   35000. feet
+ KTAS                  403.5
+ KEAS                  224.6
+ KCAS                  234.9
+ Reynolds number       5.497  millions per metre
+ CL                    0.349  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01348    (67.9 %)
+ Cd Lift-Induced           0.00499    (25.1 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00062    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00076    ( 3.8 %)
+                           -------    --------
+ Cd Total                  0.01985    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.857  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.846  sq.metres  (38.0 %)
+ Stabiliser              0.390  sq.metres  ( 8.0 %)
+ Fin                     0.286  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.434  sq.metres  ( 8.9 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.858  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 17.56 
+ =================================
+ Total Lift Force     1027742. newtons
+ Total Drag Force       58518. newtons (29259.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3116. kg/hr
+ Specific Fuel Consumption (SFC)       0.5222 kg/hr/kgf
+ Specific Air Range (SAR)              .12949 nm/kg
+ Emissions Index, NOx                  9.39 g/kg.
+ Available Total Thrust at MCR:        122682. newtons
+ Available Total Thrust at MCL:        132023. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 104800.kg.:
+ RoC at MCR, constant Mach 0.700:      2724. feet/min
+ RoC at MCR, constant 235.KCAS:        2052. feet/min
+ RoC at MCL, constant Mach 0.700:      3122. feet/min
+ RoC at MCL, constant 235.KCAS:        2351. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.700
+ Altitude (pressure)   35000. feet
+ KTAS                  403.5
+ KEAS                  224.6
+ KCAS                  234.9
+ Reynolds number       5.497  millions per metre
+ CL                    0.415  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01348    (62.7 %)
+ Cd Lift-Induced           0.00701    (32.6 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00066    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00035    ( 1.6 %)
+                           -------    --------
+ Cd Total                  0.02149    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.857  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.846  sq.metres  (38.0 %)
+ Stabiliser              0.390  sq.metres  ( 8.0 %)
+ Fin                     0.286  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.434  sq.metres  ( 8.9 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.858  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.32 
+ =================================
+ Total Lift Force     1223876. newtons
+ Total Drag Force       63344. newtons (31672.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3327. kg/hr
+ Specific Fuel Consumption (SFC)       0.5151 kg/hr/kgf
+ Specific Air Range (SAR)              .12129 nm/kg
+ Emissions Index, NOx                  9.78 g/kg.
+ Available Total Thrust at MCR:        122682. newtons
+ Available Total Thrust at MCL:        132023. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 124800.kg.:
+ RoC at MCR, constant Mach 0.700:      2115. feet/min
+ RoC at MCR, constant 235.KCAS:        1593. feet/min
+ RoC at MCL, constant Mach 0.700:      2449. feet/min
+ RoC at MCL, constant 235.KCAS:        1844. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.700
+ Altitude (pressure)   35000. feet
+ KTAS                  403.5
+ KEAS                  224.6
+ KCAS                  234.9
+ Reynolds number       5.497  millions per metre
+ CL                    0.482  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01348    (57.3 %)
+ Cd Lift-Induced           0.00936    (39.8 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00068    ( 2.9 %)
+ Delta Cd (polar-mod)      0.00002    ( 0.1 %)
+                           -------    --------
+ Cd Total                  0.02353    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.857  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.846  sq.metres  (38.0 %)
+ Stabiliser              0.390  sq.metres  ( 8.0 %)
+ Fin                     0.286  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.434  sq.metres  ( 8.9 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.858  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.47 
+ =================================
+ Total Lift Force     1420010. newtons
+ Total Drag Force       69372. newtons (34686.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3594. kg/hr
+ Specific Fuel Consumption (SFC)       0.5080 kg/hr/kgf
+ Specific Air Range (SAR)              .11228 nm/kg
+ Emissions Index, NOx                  10.21 g/kg.
+ Available Total Thrust at MCR:        122682. newtons
+ Available Total Thrust at MCL:        132023. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 144800.kg.:
+ RoC at MCR, constant Mach 0.700:      1638. feet/min
+ RoC at MCR, constant 235.KCAS:        1233. feet/min
+ RoC at MCL, constant Mach 0.700:      1925. feet/min
+ RoC at MCL, constant 235.KCAS:        1450. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.700
+ Altitude (pressure)   35000. feet
+ KTAS                  403.5
+ KEAS                  224.6
+ KCAS                  234.9
+ Reynolds number       5.497  millions per metre
+ CL                    0.548  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01348    (51.2 %)
+ Cd Lift-Induced           0.01203    (45.7 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00070    ( 2.6 %)
+ Delta Cd (polar-mod)      0.00014    ( 0.5 %)
+                           -------    --------
+ Cd Total                  0.02634    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.857  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.846  sq.metres  (38.0 %)
+ Stabiliser              0.390  sq.metres  ( 8.0 %)
+ Fin                     0.286  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.434  sq.metres  ( 8.9 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.858  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.81 
+ =================================
+ Total Lift Force     1616144. newtons
+ Total Drag Force       77661. newtons (38830.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3967. kg/hr
+ Specific Fuel Consumption (SFC)       0.5009 kg/hr/kgf
+ Specific Air Range (SAR)              .10173 nm/kg
+ Emissions Index, NOx                  10.74 g/kg.
+ Available Total Thrust at MCR:        122682. newtons
+ Available Total Thrust at MCL:        132023. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 164800.kg.:
+ RoC at MCR, constant Mach 0.700:      1215. feet/min
+ RoC at MCR, constant 235.KCAS:        915. feet/min
+ RoC at MCL, constant Mach 0.700:      1467. feet/min
+ RoC at MCL, constant 235.KCAS:        1105. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.700
+ Altitude (pressure)   35000. feet
+ KTAS                  403.5
+ KEAS                  224.6
+ KCAS                  234.9
+ Reynolds number       5.497  millions per metre
+ CL                    0.615  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01348    (44.1 %)
+ Cd Lift-Induced           0.01502    (49.2 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00070    ( 2.3 %)
+ Delta Cd (polar-mod)      0.00134    ( 4.4 %)
+                           -------    --------
+ Cd Total                  0.03054    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.857  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.846  sq.metres  (38.0 %)
+ Stabiliser              0.390  sq.metres  ( 8.0 %)
+ Fin                     0.286  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.434  sq.metres  ( 8.9 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.858  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.13 
+ =================================
+ Total Lift Force     1812278. newtons
+ Total Drag Force       90018. newtons (45009.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4532. kg/hr
+ Specific Fuel Consumption (SFC)       0.4938 kg/hr/kgf
+ Specific Air Range (SAR)              .08902 nm/kg
+ Emissions Index, NOx                  11.37 g/kg.
+ Available Total Thrust at MCR:        122682. newtons
+ Available Total Thrust at MCL:        132023. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 184800.kg.:
+ RoC at MCR, constant Mach 0.700:      785. feet/min
+ RoC at MCR, constant 235.KCAS:        591. feet/min
+ RoC at MCL, constant Mach 0.700:      1010. feet/min
+ RoC at MCL, constant 235.KCAS:        761. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.700
+ Altitude (pressure)   35000. feet
+ KTAS                  403.5
+ KEAS                  224.6
+ KCAS                  234.9
+ Reynolds number       5.497  millions per metre
+ CL                    0.681  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01348    (38.3 %)
+ Cd Lift-Induced           0.01833    (52.1 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00069    ( 2.0 %)
+ Delta Cd (polar-mod)      0.00265    ( 7.6 %)
+                           -------    --------
+ Cd Total                  0.03515    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.857  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.846  sq.metres  (38.0 %)
+ Stabiliser              0.390  sq.metres  ( 8.0 %)
+ Fin                     0.286  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.434  sq.metres  ( 8.9 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.858  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.38 
+ =================================
+ Total Lift Force     2008412. newtons
+ Total Drag Force      103609. newtons (51805.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5178. kg/hr
+ Specific Fuel Consumption (SFC)       0.4901 kg/hr/kgf
+ Specific Air Range (SAR)              .07792 nm/kg
+ Emissions Index, NOx                  11.90 g/kg.
+ Available Total Thrust at MCR:        122682. newtons
+ Available Total Thrust at MCL:        132023. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 204800.kg.:
+ RoC at MCR, constant Mach 0.700:      413. feet/min
+ RoC at MCR, constant 235.KCAS:        311. feet/min
+ RoC at MCL, constant Mach 0.700:      616. feet/min
+ RoC at MCL, constant 235.KCAS:        464. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.700
+ Altitude (pressure)   35000. feet
+ KTAS                  403.5
+ KEAS                  224.6
+ KCAS                  234.9
+ Reynolds number       5.497  millions per metre
+ CL                    0.748  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01348    (33.6 %)
+ Cd Lift-Induced           0.02194    (54.8 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00067    ( 1.7 %)
+ Delta Cd (polar-mod)      0.00397    ( 9.9 %)
+                           -------    --------
+ Cd Total                  0.04005    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.857  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.846  sq.metres  (38.0 %)
+ Stabiliser              0.390  sq.metres  ( 8.0 %)
+ Fin                     0.286  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.434  sq.metres  ( 8.9 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.858  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 18.67 
+ =================================
+ Total Lift Force     2204546. newtons
+ Total Drag Force      118072. newtons (59036.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5943. kg/hr
+ Specific Fuel Consumption (SFC)       0.4936 kg/hr/kgf
+ Specific Air Range (SAR)              .06790 nm/kg
+ Emissions Index, NOx                  12.39 g/kg.
+ Available Total Thrust at MCR:        122682. newtons
+ Available Total Thrust at MCL:        132023. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 224800.kg.:
+ RoC at MCR, constant Mach 0.700:      89. feet/min
+ RoC at MCR, constant 235.KCAS:        67. feet/min
+ RoC at MCL, constant Mach 0.700:      274. feet/min
+ RoC at MCL, constant 235.KCAS:        207. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.740
+ Altitude (pressure)   35000. feet
+ KTAS                  426.6
+ KEAS                  237.5
+ KCAS                  249.6
+ Reynolds number       5.811  millions per metre
+ CL                    0.252  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01331    (74.5 %)
+ Cd Lift-Induced           0.00266    (14.9 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00054    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00137    ( 7.6 %)
+                           -------    --------
+ Cd Total                  0.01788    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.833  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.824  sq.metres  (38.0 %)
+ Stabiliser              0.385  sq.metres  ( 8.0 %)
+ Fin                     0.283  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.430  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.799  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 14.12 
+ =================================
+ Total Lift Force      831608. newtons
+ Total Drag Force       58914. newtons (29457.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3232. kg/hr
+ Specific Fuel Consumption (SFC)       0.5380 kg/hr/kgf
+ Specific Air Range (SAR)              .13197 nm/kg
+ Emissions Index, NOx                  9.67 g/kg.
+ Available Total Thrust at MCR:        124426. newtons
+ Available Total Thrust at MCL:        133767. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 84800.kg.:
+ RoC at MCR, constant Mach 0.740:      3664. feet/min
+ RoC at MCR, constant 250.KCAS:        2684. feet/min
+ RoC at MCL, constant Mach 0.740:      4187. feet/min
+ RoC at MCL, constant 250.KCAS:        3068. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.740
+ Altitude (pressure)   35000. feet
+ KTAS                  426.6
+ KEAS                  237.5
+ KCAS                  249.6
+ Reynolds number       5.811  millions per metre
+ CL                    0.312  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01331    (70.4 %)
+ Cd Lift-Induced           0.00401    (21.2 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00059    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00099    ( 5.2 %)
+                           -------    --------
+ Cd Total                  0.01891    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.833  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.824  sq.metres  (38.0 %)
+ Stabiliser              0.385  sq.metres  ( 8.0 %)
+ Fin                     0.283  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.430  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.799  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 16.49 
+ =================================
+ Total Lift Force     1027742. newtons
+ Total Drag Force       62314. newtons (31157.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3384. kg/hr
+ Specific Fuel Consumption (SFC)       0.5326 kg/hr/kgf
+ Specific Air Range (SAR)              .12605 nm/kg
+ Emissions Index, NOx                  9.94 g/kg.
+ Available Total Thrust at MCR:        124426. newtons
+ Available Total Thrust at MCL:        133767. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 104800.kg.:
+ RoC at MCR, constant Mach 0.740:      2811. feet/min
+ RoC at MCR, constant 250.KCAS:        2059. feet/min
+ RoC at MCL, constant Mach 0.740:      3234. feet/min
+ RoC at MCL, constant 250.KCAS:        2369. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.740
+ Altitude (pressure)   35000. feet
+ KTAS                  426.6
+ KEAS                  237.5
+ KCAS                  249.6
+ Reynolds number       5.811  millions per metre
+ CL                    0.371  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01331    (65.9 %)
+ Cd Lift-Induced           0.00563    (27.9 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00063    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00062    ( 3.1 %)
+                           -------    --------
+ Cd Total                  0.02020    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.833  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.824  sq.metres  (38.0 %)
+ Stabiliser              0.385  sq.metres  ( 8.0 %)
+ Fin                     0.283  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.430  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.799  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 18.39 
+ =================================
+ Total Lift Force     1223876. newtons
+ Total Drag Force       66548. newtons (33274.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3575. kg/hr
+ Specific Fuel Consumption (SFC)       0.5268 kg/hr/kgf
+ Specific Air Range (SAR)              .11931 nm/kg
+ Emissions Index, NOx                  10.25 g/kg.
+ Available Total Thrust at MCR:        124426. newtons
+ Available Total Thrust at MCL:        133767. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 124800.kg.:
+ RoC at MCR, constant Mach 0.740:      2199. feet/min
+ RoC at MCR, constant 250.KCAS:        1611. feet/min
+ RoC at MCL, constant Mach 0.740:      2555. feet/min
+ RoC at MCL, constant 250.KCAS:        1872. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.740
+ Altitude (pressure)   35000. feet
+ KTAS                  426.6
+ KEAS                  237.5
+ KCAS                  249.6
+ Reynolds number       5.811  millions per metre
+ CL                    0.431  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01331    (61.2 %)
+ Cd Lift-Induced           0.00752    (34.6 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00066    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00025    ( 1.2 %)
+                           -------    --------
+ Cd Total                  0.02175    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.833  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.824  sq.metres  (38.0 %)
+ Stabiliser              0.385  sq.metres  ( 8.0 %)
+ Fin                     0.283  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.430  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.799  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.82 
+ =================================
+ Total Lift Force     1420010. newtons
+ Total Drag Force       71656. newtons (35828.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3808. kg/hr
+ Specific Fuel Consumption (SFC)       0.5212 kg/hr/kgf
+ Specific Air Range (SAR)              .11201 nm/kg
+ Emissions Index, NOx                  10.59 g/kg.
+ Available Total Thrust at MCR:        124426. newtons
+ Available Total Thrust at MCL:        133767. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 144800.kg.:
+ RoC at MCR, constant Mach 0.740:      1728. feet/min
+ RoC at MCR, constant 250.KCAS:        1266. feet/min
+ RoC at MCL, constant Mach 0.740:      2034. feet/min
+ RoC at MCL, constant 250.KCAS:        1490. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.740
+ Altitude (pressure)   35000. feet
+ KTAS                  426.6
+ KEAS                  237.5
+ KCAS                  249.6
+ Reynolds number       5.811  millions per metre
+ CL                    0.491  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01331    (56.3 %)
+ Cd Lift-Induced           0.00967    (40.9 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00068    ( 2.9 %)
+ Delta Cd (polar-mod)     -0.00000    (-0.0 %)
+                           -------    --------
+ Cd Total                  0.02367    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.833  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.824  sq.metres  (38.0 %)
+ Stabiliser              0.385  sq.metres  ( 8.0 %)
+ Fin                     0.283  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.430  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.799  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.73 
+ =================================
+ Total Lift Force     1616144. newtons
+ Total Drag Force       77975. newtons (38987.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4100. kg/hr
+ Specific Fuel Consumption (SFC)       0.5157 kg/hr/kgf
+ Specific Air Range (SAR)              .10403 nm/kg
+ Emissions Index, NOx                  10.96 g/kg.
+ Available Total Thrust at MCR:        124426. newtons
+ Available Total Thrust at MCL:        133767. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 164800.kg.:
+ RoC at MCR, constant Mach 0.740:      1336. feet/min
+ RoC at MCR, constant 250.KCAS:        979. feet/min
+ RoC at MCL, constant Mach 0.740:      1605. feet/min
+ RoC at MCL, constant 250.KCAS:        1176. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.740
+ Altitude (pressure)   35000. feet
+ KTAS                  426.6
+ KEAS                  237.5
+ KCAS                  249.6
+ Reynolds number       5.811  millions per metre
+ CL                    0.550  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01331    (50.7 %)
+ Cd Lift-Induced           0.01209    (46.0 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00069    ( 2.6 %)
+ Delta Cd (polar-mod)      0.00016    ( 0.6 %)
+                           -------    --------
+ Cd Total                  0.02626    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.833  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.824  sq.metres  (38.0 %)
+ Stabiliser              0.385  sq.metres  ( 8.0 %)
+ Fin                     0.283  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.430  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.799  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.95 
+ =================================
+ Total Lift Force     1812278. newtons
+ Total Drag Force       86512. newtons (43256.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4501. kg/hr
+ Specific Fuel Consumption (SFC)       0.5102 kg/hr/kgf
+ Specific Air Range (SAR)              .09478 nm/kg
+ Emissions Index, NOx                  11.39 g/kg.
+ Available Total Thrust at MCR:        124426. newtons
+ Available Total Thrust at MCL:        133767. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 184800.kg.:
+ RoC at MCR, constant Mach 0.740:      972. feet/min
+ RoC at MCR, constant 250.KCAS:        712. feet/min
+ RoC at MCL, constant Mach 0.740:      1212. feet/min
+ RoC at MCL, constant 250.KCAS:        888. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.740
+ Altitude (pressure)   35000. feet
+ KTAS                  426.6
+ KEAS                  237.5
+ KCAS                  249.6
+ Reynolds number       5.811  millions per metre
+ CL                    0.610  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01331    (44.4 %)
+ Cd Lift-Induced           0.01475    (49.2 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00070    ( 2.3 %)
+ Delta Cd (polar-mod)      0.00124    ( 4.1 %)
+                           -------    --------
+ Cd Total                  0.03000    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.833  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.824  sq.metres  (38.0 %)
+ Stabiliser              0.385  sq.metres  ( 8.0 %)
+ Fin                     0.283  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.430  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.799  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.32 
+ =================================
+ Total Lift Force     2008412. newtons
+ Total Drag Force       98849. newtons (49425.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5092. kg/hr
+ Specific Fuel Consumption (SFC)       0.5052 kg/hr/kgf
+ Specific Air Range (SAR)              .08377 nm/kg
+ Emissions Index, NOx                  11.89 g/kg.
+ Available Total Thrust at MCR:        124426. newtons
+ Available Total Thrust at MCL:        133767. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 204800.kg.:
+ RoC at MCR, constant Mach 0.740:      591. feet/min
+ RoC at MCR, constant 250.KCAS:        433. feet/min
+ RoC at MCL, constant Mach 0.740:      807. feet/min
+ RoC at MCL, constant 250.KCAS:        591. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.740
+ Altitude (pressure)   35000. feet
+ KTAS                  426.6
+ KEAS                  237.5
+ KCAS                  249.6
+ Reynolds number       5.811  millions per metre
+ CL                    0.669  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01331    (39.1 %)
+ Cd Lift-Induced           0.01767    (51.8 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00069    ( 2.0 %)
+ Delta Cd (polar-mod)      0.00242    ( 7.1 %)
+                           -------    --------
+ Cd Total                  0.03409    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.833  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.824  sq.metres  (38.0 %)
+ Stabiliser              0.385  sq.metres  ( 8.0 %)
+ Fin                     0.283  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.430  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.799  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.63 
+ =================================
+ Total Lift Force     2204546. newtons
+ Total Drag Force      112316. newtons (56158.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5782. kg/hr
+ Specific Fuel Consumption (SFC)       0.5049 kg/hr/kgf
+ Specific Air Range (SAR)              .07377 nm/kg
+ Emissions Index, NOx                  12.34 g/kg.
+ Available Total Thrust at MCR:        124426. newtons
+ Available Total Thrust at MCL:        133767. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 224800.kg.:
+ RoC at MCR, constant Mach 0.740:      253. feet/min
+ RoC at MCR, constant 250.KCAS:        186. feet/min
+ RoC at MCL, constant Mach 0.740:      451. feet/min
+ RoC at MCL, constant 250.KCAS:        330. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.740
+ Altitude (pressure)   35000. feet
+ KTAS                  426.6
+ KEAS                  237.5
+ KCAS                  249.6
+ Reynolds number       5.811  millions per metre
+ CL                    0.729  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01331    (34.7 %)
+ Cd Lift-Induced           0.02084    (54.2 %)
+ Cd Compressibility        0.00000    ( 0.0 %)
+ Cd Trim                   0.00067    ( 1.7 %)
+ Delta Cd (polar-mod)      0.00359    ( 9.3 %)
+                           -------    --------
+ Cd Total                  0.03842    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.833  sq.metres  (38.2 %)
+ Winglets                0.014  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.824  sq.metres  (38.0 %)
+ Stabiliser              0.385  sq.metres  ( 8.0 %)
+ Fin                     0.283  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.430  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.6 %)
+                       -------             --------
+ Total Cd0*S             4.799  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 18.97 
+ =================================
+ Total Lift Force     2400680. newtons
+ Total Drag Force      126566. newtons (63283.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       6610. kg/hr
+ Specific Fuel Consumption (SFC)       0.5122 kg/hr/kgf
+ Specific Air Range (SAR)              .06453 nm/kg
+ Emissions Index, NOx                  12.83 g/kg.
+ Available Total Thrust at MCR:        124426. newtons
+ Available Total Thrust at MCL:        133767. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 244800.kg.:
+ RoC at MCR, constant Mach 0.740:      -44. feet/min
+ RoC at MCR, constant 250.KCAS:        -32. feet/min
+ RoC at MCL, constant Mach 0.740:      137. feet/min
+ RoC at MCL, constant 250.KCAS:        101. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.780
+ Altitude (pressure)   35000. feet
+ KTAS                  449.6
+ KEAS                  250.3
+ KCAS                  264.4
+ Reynolds number       6.125  millions per metre
+ CL                    0.227  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01316    (75.7 %)
+ Cd Lift-Induced           0.00216    (12.4 %)
+ Cd Compressibility        0.00001    ( 0.1 %)
+ Cd Trim                   0.00052    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00152    ( 8.8 %)
+                           -------    --------
+ Cd Total                  0.01737    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.810  sq.metres  (38.2 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.803  sq.metres  (38.0 %)
+ Stabiliser              0.380  sq.metres  ( 8.0 %)
+ Fin                     0.279  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.426  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.743  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 13.08 
+ =================================
+ Total Lift Force      831608. newtons
+ Total Drag Force       63576. newtons (31788.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3552. kg/hr
+ Specific Fuel Consumption (SFC)       0.5480 kg/hr/kgf
+ Specific Air Range (SAR)              .12657 nm/kg
+ Emissions Index, NOx                  10.28 g/kg.
+ Available Total Thrust at MCR:        126169. newtons
+ Available Total Thrust at MCL:        135511. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 84800.kg.:
+ RoC at MCR, constant Mach 0.780:      3722. feet/min
+ RoC at MCR, constant 264.KCAS:        2651. feet/min
+ RoC at MCL, constant Mach 0.780:      4279. feet/min
+ RoC at MCL, constant 264.KCAS:        3048. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.780
+ Altitude (pressure)   35000. feet
+ KTAS                  449.6
+ KEAS                  250.3
+ KCAS                  264.4
+ Reynolds number       6.125  millions per metre
+ CL                    0.281  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01316    (72.4 %)
+ Cd Lift-Induced           0.00326    (17.9 %)
+ Cd Compressibility        0.00001    ( 0.1 %)
+ Cd Trim                   0.00057    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00119    ( 6.5 %)
+                           -------    --------
+ Cd Total                  0.01818    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.810  sq.metres  (38.2 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.803  sq.metres  (38.0 %)
+ Stabiliser              0.380  sq.metres  ( 8.0 %)
+ Fin                     0.279  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.426  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.743  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 15.44 
+ =================================
+ Total Lift Force     1027742. newtons
+ Total Drag Force       66548. newtons (33274.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3690. kg/hr
+ Specific Fuel Consumption (SFC)       0.5437 kg/hr/kgf
+ Specific Air Range (SAR)              .12186 nm/kg
+ Emissions Index, NOx                  10.49 g/kg.
+ Available Total Thrust at MCR:        126169. newtons
+ Available Total Thrust at MCL:        135511. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 104800.kg.:
+ RoC at MCR, constant Mach 0.780:      2869. feet/min
+ RoC at MCR, constant 264.KCAS:        2043. feet/min
+ RoC at MCL, constant Mach 0.780:      3319. feet/min
+ RoC at MCL, constant 264.KCAS:        2364. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.780
+ Altitude (pressure)   35000. feet
+ KTAS                  449.6
+ KEAS                  250.3
+ KCAS                  264.4
+ Reynolds number       6.125  millions per metre
+ CL                    0.334  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01316    (68.5 %)
+ Cd Lift-Induced           0.00457    (23.8 %)
+ Cd Compressibility        0.00001    ( 0.1 %)
+ Cd Trim                   0.00061    ( 3.2 %)
+ Delta Cd (polar-mod)      0.00085    ( 4.4 %)
+                           -------    --------
+ Cd Total                  0.01920    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.810  sq.metres  (38.2 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.803  sq.metres  (38.0 %)
+ Stabiliser              0.380  sq.metres  ( 8.0 %)
+ Fin                     0.279  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.426  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.743  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 17.41 
+ =================================
+ Total Lift Force     1223876. newtons
+ Total Drag Force       70281. newtons (35141.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3863. kg/hr
+ Specific Fuel Consumption (SFC)       0.5391 kg/hr/kgf
+ Specific Air Range (SAR)              .11638 nm/kg
+ Emissions Index, NOx                  10.72 g/kg.
+ Available Total Thrust at MCR:        126169. newtons
+ Available Total Thrust at MCL:        135511. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 124800.kg.:
+ RoC at MCR, constant Mach 0.780:      2258. feet/min
+ RoC at MCR, constant 264.KCAS:        1608. feet/min
+ RoC at MCL, constant Mach 0.780:      2636. feet/min
+ RoC at MCL, constant 264.KCAS:        1878. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.780
+ Altitude (pressure)   35000. feet
+ KTAS                  449.6
+ KEAS                  250.3
+ KCAS                  264.4
+ Reynolds number       6.125  millions per metre
+ CL                    0.388  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01316    (64.4 %)
+ Cd Lift-Induced           0.00611    (29.9 %)
+ Cd Compressibility        0.00001    ( 0.1 %)
+ Cd Trim                   0.00064    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00052    ( 2.5 %)
+                           -------    --------
+ Cd Total                  0.02043    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.810  sq.metres  (38.2 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.803  sq.metres  (38.0 %)
+ Stabiliser              0.380  sq.metres  ( 8.0 %)
+ Fin                     0.279  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.426  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.743  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 18.99 
+ =================================
+ Total Lift Force     1420010. newtons
+ Total Drag Force       74783. newtons (37391.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4075. kg/hr
+ Specific Fuel Consumption (SFC)       0.5344 kg/hr/kgf
+ Specific Air Range (SAR)              .11033 nm/kg
+ Emissions Index, NOx                  10.99 g/kg.
+ Available Total Thrust at MCR:        126169. newtons
+ Available Total Thrust at MCL:        135511. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 144800.kg.:
+ RoC at MCR, constant Mach 0.780:      1789. feet/min
+ RoC at MCR, constant 264.KCAS:        1274. feet/min
+ RoC at MCL, constant Mach 0.780:      2115. feet/min
+ RoC at MCL, constant 264.KCAS:        1506. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.780
+ Altitude (pressure)   35000. feet
+ KTAS                  449.6
+ KEAS                  250.3
+ KCAS                  264.4
+ Reynolds number       6.125  millions per metre
+ CL                    0.442  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01316    (60.1 %)
+ Cd Lift-Induced           0.00786    (35.9 %)
+ Cd Compressibility        0.00001    ( 0.1 %)
+ Cd Trim                   0.00066    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00019    ( 0.9 %)
+                           -------    --------
+ Cd Total                  0.02188    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.810  sq.metres  (38.2 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.803  sq.metres  (38.0 %)
+ Stabiliser              0.380  sq.metres  ( 8.0 %)
+ Fin                     0.279  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.426  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.743  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.18 
+ =================================
+ Total Lift Force     1616144. newtons
+ Total Drag Force       80094. newtons (40047.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4327. kg/hr
+ Specific Fuel Consumption (SFC)       0.5298 kg/hr/kgf
+ Specific Air Range (SAR)              .10390 nm/kg
+ Emissions Index, NOx                  11.27 g/kg.
+ Available Total Thrust at MCR:        126169. newtons
+ Available Total Thrust at MCL:        135511. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 164800.kg.:
+ RoC at MCR, constant Mach 0.780:      1409. feet/min
+ RoC at MCR, constant 264.KCAS:        1004. feet/min
+ RoC at MCL, constant Mach 0.780:      1695. feet/min
+ RoC at MCL, constant 264.KCAS:        1208. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.780
+ Altitude (pressure)   35000. feet
+ KTAS                  449.6
+ KEAS                  250.3
+ KCAS                  264.4
+ Reynolds number       6.125  millions per metre
+ CL                    0.495  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01316    (55.6 %)
+ Cd Lift-Induced           0.00982    (41.5 %)
+ Cd Compressibility        0.00001    ( 0.1 %)
+ Cd Trim                   0.00068    ( 2.9 %)
+ Delta Cd (polar-mod)     -0.00001    (-0.1 %)
+                           -------    --------
+ Cd Total                  0.02366    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.810  sq.metres  (38.2 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.803  sq.metres  (38.0 %)
+ Stabiliser              0.380  sq.metres  ( 8.0 %)
+ Fin                     0.279  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.426  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.743  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.93 
+ =================================
+ Total Lift Force     1812278. newtons
+ Total Drag Force       86597. newtons (43298.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4640. kg/hr
+ Specific Fuel Consumption (SFC)       0.5254 kg/hr/kgf
+ Specific Air Range (SAR)              .09690 nm/kg
+ Emissions Index, NOx                  11.57 g/kg.
+ Available Total Thrust at MCR:        126169. newtons
+ Available Total Thrust at MCL:        135511. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 184800.kg.:
+ RoC at MCR, constant Mach 0.780:      1079. feet/min
+ RoC at MCR, constant 264.KCAS:        768. feet/min
+ RoC at MCL, constant Mach 0.780:      1334. feet/min
+ RoC at MCL, constant 264.KCAS:        950. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.780
+ Altitude (pressure)   35000. feet
+ KTAS                  449.6
+ KEAS                  250.3
+ KCAS                  264.4
+ Reynolds number       6.125  millions per metre
+ CL                    0.549  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01316    (50.6 %)
+ Cd Lift-Induced           0.01199    (46.1 %)
+ Cd Compressibility        0.00001    ( 0.1 %)
+ Cd Trim                   0.00069    ( 2.7 %)
+ Delta Cd (polar-mod)      0.00015    ( 0.6 %)
+                           -------    --------
+ Cd Total                  0.02600    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.810  sq.metres  (38.2 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.803  sq.metres  (38.0 %)
+ Stabiliser              0.380  sq.metres  ( 8.0 %)
+ Fin                     0.279  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.426  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.743  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 21.10 
+ =================================
+ Total Lift Force     2008412. newtons
+ Total Drag Force       95173. newtons (47587.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5058. kg/hr
+ Specific Fuel Consumption (SFC)       0.5212 kg/hr/kgf
+ Specific Air Range (SAR)              .08889 nm/kg
+ Emissions Index, NOx                  11.91 g/kg.
+ Available Total Thrust at MCR:        126169. newtons
+ Available Total Thrust at MCL:        135511. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 204800.kg.:
+ RoC at MCR, constant Mach 0.780:      762. feet/min
+ RoC at MCR, constant 264.KCAS:        543. feet/min
+ RoC at MCL, constant Mach 0.780:      992. feet/min
+ RoC at MCL, constant 264.KCAS:        707. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.780
+ Altitude (pressure)   35000. feet
+ KTAS                  449.6
+ KEAS                  250.3
+ KCAS                  264.4
+ Reynolds number       6.125  millions per metre
+ CL                    0.602  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01316    (44.9 %)
+ Cd Lift-Induced           0.01437    (49.0 %)
+ Cd Compressibility        0.00001    ( 0.0 %)
+ Cd Trim                   0.00069    ( 2.4 %)
+ Delta Cd (polar-mod)      0.00109    ( 3.7 %)
+                           -------    --------
+ Cd Total                  0.02933    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.810  sq.metres  (38.2 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.803  sq.metres  (38.0 %)
+ Stabiliser              0.380  sq.metres  ( 8.0 %)
+ Fin                     0.279  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.426  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.743  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.53 
+ =================================
+ Total Lift Force     2204546. newtons
+ Total Drag Force      107358. newtons (53679.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5676. kg/hr
+ Specific Fuel Consumption (SFC)       0.5185 kg/hr/kgf
+ Specific Air Range (SAR)              .07921 nm/kg
+ Emissions Index, NOx                  12.32 g/kg.
+ Available Total Thrust at MCR:        126169. newtons
+ Available Total Thrust at MCL:        135511. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 224800.kg.:
+ RoC at MCR, constant Mach 0.780:      420. feet/min
+ RoC at MCR, constant 264.KCAS:        299. feet/min
+ RoC at MCL, constant Mach 0.780:      630. feet/min
+ RoC at MCL, constant 264.KCAS:        449. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.780
+ Altitude (pressure)   35000. feet
+ KTAS                  449.6
+ KEAS                  250.3
+ KCAS                  264.4
+ Reynolds number       6.125  millions per metre
+ CL                    0.656  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01316    (39.9 %)
+ Cd Lift-Induced           0.01696    (51.4 %)
+ Cd Compressibility        0.00003    ( 0.1 %)
+ Cd Trim                   0.00069    ( 2.1 %)
+ Delta Cd (polar-mod)      0.00215    ( 6.5 %)
+                           -------    --------
+ Cd Total                  0.03299    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.810  sq.metres  (38.2 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.803  sq.metres  (38.0 %)
+ Stabiliser              0.380  sq.metres  ( 8.0 %)
+ Fin                     0.279  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.426  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.743  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.88 
+ =================================
+ Total Lift Force     2400680. newtons
+ Total Drag Force      120733. newtons (60367.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       6415. kg/hr
+ Specific Fuel Consumption (SFC)       0.5211 kg/hr/kgf
+ Specific Air Range (SAR)              .07008 nm/kg
+ Emissions Index, NOx                  12.76 g/kg.
+ Available Total Thrust at MCR:        126169. newtons
+ Available Total Thrust at MCL:        135511. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 244800.kg.:
+ RoC at MCR, constant Mach 0.780:      110. feet/min
+ RoC at MCR, constant 264.KCAS:        78. feet/min
+ RoC at MCL, constant Mach 0.780:      303. feet/min
+ RoC at MCL, constant 264.KCAS:        216. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.206  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (76.5 %)
+ Cd Lift-Induced           0.00177    (10.4 %)
+ Cd Compressibility        0.00007    ( 0.4 %)
+ Cd Trim                   0.00049    ( 2.9 %)
+ Delta Cd (polar-mod)      0.00166    ( 9.8 %)
+                           -------    --------
+ Cd Total                  0.01700    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 12.09 
+ =================================
+ Total Lift Force      831608. newtons
+ Total Drag Force       68759. newtons (34379.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       3921. kg/hr
+ Specific Fuel Consumption (SFC)       0.5592 kg/hr/kgf
+ Specific Air Range (SAR)              .12055 nm/kg
+ Emissions Index, NOx                  10.86 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 84800.kg.:
+ RoC at MCR, constant Mach 0.820:      3773. feet/min
+ RoC at MCR, constant 279.KCAS:        2611. feet/min
+ RoC at MCL, constant Mach 0.820:      4363. feet/min
+ RoC at MCL, constant 279.KCAS:        3020. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.254  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (73.8 %)
+ Cd Lift-Induced           0.00266    (15.1 %)
+ Cd Compressibility        0.00007    ( 0.4 %)
+ Cd Trim                   0.00054    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00136    ( 7.7 %)
+                           -------    --------
+ Cd Total                  0.01763    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 14.41 
+ =================================
+ Total Lift Force     1027742. newtons
+ Total Drag Force       71327. newtons (35664.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4043. kg/hr
+ Specific Fuel Consumption (SFC)       0.5559 kg/hr/kgf
+ Specific Air Range (SAR)              .11690 nm/kg
+ Emissions Index, NOx                  11.01 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 104800.kg.:
+ RoC at MCR, constant Mach 0.820:      2921. feet/min
+ RoC at MCR, constant 279.KCAS:        2022. feet/min
+ RoC at MCL, constant Mach 0.820:      3399. feet/min
+ RoC at MCL, constant 279.KCAS:        2353. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.303  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (70.5 %)
+ Cd Lift-Induced           0.00375    (20.3 %)
+ Cd Compressibility        0.00007    ( 0.4 %)
+ Cd Trim                   0.00058    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00105    ( 5.7 %)
+                           -------    --------
+ Cd Total                  0.01845    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 16.40 
+ =================================
+ Total Lift Force     1223876. newtons
+ Total Drag Force       74643. newtons (37322.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4202. kg/hr
+ Specific Fuel Consumption (SFC)       0.5521 kg/hr/kgf
+ Specific Air Range (SAR)              .11248 nm/kg
+ Emissions Index, NOx                  11.19 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 124800.kg.:
+ RoC at MCR, constant Mach 0.820:      2311. feet/min
+ RoC at MCR, constant 279.KCAS:        1599. feet/min
+ RoC at MCL, constant Mach 0.820:      2712. feet/min
+ RoC at MCL, constant 279.KCAS:        1877. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.351  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (66.9 %)
+ Cd Lift-Induced           0.00500    (25.7 %)
+ Cd Compressibility        0.00007    ( 0.4 %)
+ Cd Trim                   0.00061    ( 3.2 %)
+ Delta Cd (polar-mod)      0.00075    ( 3.8 %)
+                           -------    --------
+ Cd Total                  0.01944    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 18.06 
+ =================================
+ Total Lift Force     1420010. newtons
+ Total Drag Force       78627. newtons (39314.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4395. kg/hr
+ Specific Fuel Consumption (SFC)       0.5481 kg/hr/kgf
+ Specific Air Range (SAR)              .10755 nm/kg
+ Emissions Index, NOx                  11.39 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 144800.kg.:
+ RoC at MCR, constant Mach 0.820:      1844. feet/min
+ RoC at MCR, constant 279.KCAS:        1276. feet/min
+ RoC at MCL, constant Mach 0.820:      2190. feet/min
+ RoC at MCL, constant 279.KCAS:        1516. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.400  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (63.1 %)
+ Cd Lift-Induced           0.00644    (31.2 %)
+ Cd Compressibility        0.00007    ( 0.4 %)
+ Cd Trim                   0.00064    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00044    ( 2.2 %)
+                           -------    --------
+ Cd Total                  0.02060    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.39 
+ =================================
+ Total Lift Force     1616144. newtons
+ Total Drag Force       83336. newtons (41668.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4624. kg/hr
+ Specific Fuel Consumption (SFC)       0.5442 kg/hr/kgf
+ Specific Air Range (SAR)              .10221 nm/kg
+ Emissions Index, NOx                  11.61 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 164800.kg.:
+ RoC at MCR, constant Mach 0.820:      1467. feet/min
+ RoC at MCR, constant 279.KCAS:        1015. feet/min
+ RoC at MCL, constant Mach 0.820:      1771. feet/min
+ RoC at MCL, constant 279.KCAS:        1226. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.448  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (59.2 %)
+ Cd Lift-Induced           0.00805    (36.6 %)
+ Cd Compressibility        0.00011    ( 0.5 %)
+ Cd Trim                   0.00066    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00016    ( 0.7 %)
+                           -------    --------
+ Cd Total                  0.02198    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.38 
+ =================================
+ Total Lift Force     1812278. newtons
+ Total Drag Force       88932. newtons (44466.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4900. kg/hr
+ Specific Fuel Consumption (SFC)       0.5403 kg/hr/kgf
+ Specific Air Range (SAR)              .09647 nm/kg
+ Emissions Index, NOx                  11.83 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 184800.kg.:
+ RoC at MCR, constant Mach 0.820:      1146. feet/min
+ RoC at MCR, constant 279.KCAS:        793. feet/min
+ RoC at MCL, constant Mach 0.820:      1417. feet/min
+ RoC at MCL, constant 279.KCAS:        981. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.496  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (55.0 %)
+ Cd Lift-Induced           0.00983    (41.6 %)
+ Cd Compressibility        0.00015    ( 0.6 %)
+ Cd Trim                   0.00068    ( 2.9 %)
+ Delta Cd (polar-mod)     -0.00001    (-0.1 %)
+                           -------    --------
+ Cd Total                  0.02365    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.99 
+ =================================
+ Total Lift Force     2008412. newtons
+ Total Drag Force       95681. newtons (47840.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5236. kg/hr
+ Specific Fuel Consumption (SFC)       0.5367 kg/hr/kgf
+ Specific Air Range (SAR)              .09027 nm/kg
+ Emissions Index, NOx                  12.08 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 204800.kg.:
+ RoC at MCR, constant Mach 0.820:      857. feet/min
+ RoC at MCR, constant 279.KCAS:        593. feet/min
+ RoC at MCL, constant Mach 0.820:      1102. feet/min
+ RoC at MCL, constant 279.KCAS:        763. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.545  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (50.4 %)
+ Cd Lift-Induced           0.01179    (45.7 %)
+ Cd Compressibility        0.00020    ( 0.8 %)
+ Cd Trim                   0.00069    ( 2.7 %)
+ Delta Cd (polar-mod)      0.00011    ( 0.4 %)
+                           -------    --------
+ Cd Total                  0.02580    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 21.12 
+ =================================
+ Total Lift Force     2204546. newtons
+ Total Drag Force      104358. newtons (52179.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5681. kg/hr
+ Specific Fuel Consumption (SFC)       0.5338 kg/hr/kgf
+ Specific Air Range (SAR)              .08321 nm/kg
+ Emissions Index, NOx                  12.36 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 224800.kg.:
+ RoC at MCR, constant Mach 0.820:      574. feet/min
+ RoC at MCR, constant 279.KCAS:        397. feet/min
+ RoC at MCL, constant Mach 0.820:      797. feet/min
+ RoC at MCL, constant 279.KCAS:        552. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.593  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (45.1 %)
+ Cd Lift-Induced           0.01392    (48.3 %)
+ Cd Compressibility        0.00030    ( 1.1 %)
+ Cd Trim                   0.00069    ( 2.4 %)
+ Delta Cd (polar-mod)      0.00092    ( 3.2 %)
+                           -------    --------
+ Cd Total                  0.02884    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.58 
+ =================================
+ Total Lift Force     2400680. newtons
+ Total Drag Force      116659. newtons (58330.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       6347. kg/hr
+ Specific Fuel Consumption (SFC)       0.5335 kg/hr/kgf
+ Specific Air Range (SAR)              .07447 nm/kg
+ Emissions Index, NOx                  12.77 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 244800.kg.:
+ RoC at MCR, constant Mach 0.820:      258. feet/min
+ RoC at MCR, constant 279.KCAS:        178. feet/min
+ RoC at MCL, constant Mach 0.820:      462. feet/min
+ RoC at MCL, constant 279.KCAS:        320. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.642  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (40.3 %)
+ Cd Lift-Induced           0.01621    (50.2 %)
+ Cd Compressibility        0.00050    ( 1.6 %)
+ Cd Trim                   0.00069    ( 2.1 %)
+ Delta Cd (polar-mod)      0.00188    ( 5.8 %)
+                           -------    --------
+ Cd Total                  0.03229    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.88 
+ =================================
+ Total Lift Force     2596814. newtons
+ Total Drag Force      130614. newtons (65307.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       7185. kg/hr
+ Specific Fuel Consumption (SFC)       0.5395 kg/hr/kgf
+ Specific Air Range (SAR)              .06579 nm/kg
+ Emissions Index, NOx                  13.38 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 264800.kg.:
+ RoC at MCR, constant Mach 0.820:      -44. feet/min
+ RoC at MCR, constant 279.KCAS:        -31. feet/min
+ RoC at MCL, constant Mach 0.820:      145. feet/min
+ RoC at MCL, constant 279.KCAS:        100. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.820
+ Altitude (pressure)   35000. feet
+ KTAS                  472.7
+ KEAS                  263.1
+ KCAS                  279.5
+ Reynolds number       6.439  millions per metre
+ CL                    0.690  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01301    (36.0 %)
+ Cd Lift-Induced           0.01867    (51.7 %)
+ Cd Compressibility        0.00089    ( 2.5 %)
+ Cd Trim                   0.00068    ( 1.9 %)
+ Delta Cd (polar-mod)      0.00283    ( 7.9 %)
+                           -------    --------
+ Cd Total                  0.03608    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.788  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.783  sq.metres  (38.0 %)
+ Stabiliser              0.375  sq.metres  ( 8.0 %)
+ Fin                     0.276  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.423  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.688  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.13 
+ =================================
+ Total Lift Force     2792948. newtons
+ Total Drag Force      145961. newtons (72981.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       8297. kg/hr
+ Specific Fuel Consumption (SFC)       0.5574 kg/hr/kgf
+ Specific Air Range (SAR)              .05697 nm/kg
+ Emissions Index, NOx                  14.68 g/kg.
+ Available Total Thrust at MCR:        128536. newtons
+ Available Total Thrust at MCL:        137877. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 284800.kg.:
+ RoC at MCR, constant Mach 0.820:      -330. feet/min
+ RoC at MCR, constant 279.KCAS:        -228. feet/min
+ RoC at MCL, constant Mach 0.820:      -154. feet/min
+ RoC at MCL, constant 279.KCAS:        -107. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.840
+ Altitude (pressure)   35000. feet
+ KTAS                  484.2
+ KEAS                  269.5
+ KCAS                  287.1
+ Reynolds number       6.596  millions per metre
+ CL                    0.242  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01293    (74.2 %)
+ Cd Lift-Induced           0.00241    (13.8 %)
+ Cd Compressibility        0.00013    ( 0.8 %)
+ Cd Trim                   0.00053    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00143    ( 8.2 %)
+                           -------    --------
+ Cd Total                  0.01743    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.777  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.773  sq.metres  (38.0 %)
+ Stabiliser              0.373  sq.metres  ( 8.0 %)
+ Fin                     0.274  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.422  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.662  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 13.89 
+ =================================
+ Total Lift Force     1027742. newtons
+ Total Drag Force       74008. newtons (37004.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4239. kg/hr
+ Specific Fuel Consumption (SFC)       0.5618 kg/hr/kgf
+ Specific Air Range (SAR)              .11421 nm/kg
+ Emissions Index, NOx                  11.26 g/kg.
+ Available Total Thrust at MCR:        130030. newtons
+ Available Total Thrust at MCL:        139372. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 104800.kg.:
+ RoC at MCR, constant Mach 0.840:      2945. feet/min
+ RoC at MCR, constant 287.KCAS:        2009. feet/min
+ RoC at MCL, constant Mach 0.840:      3437. feet/min
+ RoC at MCL, constant 287.KCAS:        2345. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.840
+ Altitude (pressure)   35000. feet
+ KTAS                  484.2
+ KEAS                  269.5
+ KCAS                  287.1
+ Reynolds number       6.596  millions per metre
+ CL                    0.288  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01293    (71.1 %)
+ Cd Lift-Induced           0.00340    (18.7 %)
+ Cd Compressibility        0.00015    ( 0.8 %)
+ Cd Trim                   0.00057    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00114    ( 6.3 %)
+                           -------    --------
+ Cd Total                  0.01818    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.777  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.773  sq.metres  (38.0 %)
+ Stabiliser              0.373  sq.metres  ( 8.0 %)
+ Fin                     0.274  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.422  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.662  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 15.86 
+ =================================
+ Total Lift Force     1223876. newtons
+ Total Drag Force       77179. newtons (38589.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4394. kg/hr
+ Specific Fuel Consumption (SFC)       0.5583 kg/hr/kgf
+ Specific Air Range (SAR)              .11020 nm/kg
+ Emissions Index, NOx                  11.42 g/kg.
+ Available Total Thrust at MCR:        130030. newtons
+ Available Total Thrust at MCL:        139372. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 124800.kg.:
+ RoC at MCR, constant Mach 0.840:      2333. feet/min
+ RoC at MCR, constant 287.KCAS:        1592. feet/min
+ RoC at MCL, constant Mach 0.840:      2746. feet/min
+ RoC at MCL, constant 287.KCAS:        1873. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.840
+ Altitude (pressure)   35000. feet
+ KTAS                  484.2
+ KEAS                  269.5
+ KCAS                  287.1
+ Reynolds number       6.596  millions per metre
+ CL                    0.335  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01293    (67.7 %)
+ Cd Lift-Induced           0.00453    (23.7 %)
+ Cd Compressibility        0.00018    ( 0.9 %)
+ Cd Trim                   0.00060    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00085    ( 4.5 %)
+                           -------    --------
+ Cd Total                  0.01910    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.777  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.773  sq.metres  (38.0 %)
+ Stabiliser              0.373  sq.metres  ( 8.0 %)
+ Fin                     0.274  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.422  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.662  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 17.52 
+ =================================
+ Total Lift Force     1420010. newtons
+ Total Drag Force       81073. newtons (40536.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4585. kg/hr
+ Specific Fuel Consumption (SFC)       0.5546 kg/hr/kgf
+ Specific Air Range (SAR)              .10562 nm/kg
+ Emissions Index, NOx                  11.60 g/kg.
+ Available Total Thrust at MCR:        130030. newtons
+ Available Total Thrust at MCL:        139372. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 144800.kg.:
+ RoC at MCR, constant Mach 0.840:      1863. feet/min
+ RoC at MCR, constant 287.KCAS:        1270. feet/min
+ RoC at MCL, constant Mach 0.840:      2219. feet/min
+ RoC at MCL, constant 287.KCAS:        1513. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.840
+ Altitude (pressure)   35000. feet
+ KTAS                  484.2
+ KEAS                  269.5
+ KCAS                  287.1
+ Reynolds number       6.596  millions per metre
+ CL                    0.381  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01293    (64.1 %)
+ Cd Lift-Induced           0.00584    (28.9 %)
+ Cd Compressibility        0.00022    ( 1.1 %)
+ Cd Trim                   0.00063    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00056    ( 2.8 %)
+                           -------    --------
+ Cd Total                  0.02018    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.777  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.773  sq.metres  (38.0 %)
+ Stabiliser              0.373  sq.metres  ( 8.0 %)
+ Fin                     0.274  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.422  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.662  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 18.87 
+ =================================
+ Total Lift Force     1616144. newtons
+ Total Drag Force       85653. newtons (42826.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4811. kg/hr
+ Specific Fuel Consumption (SFC)       0.5508 kg/hr/kgf
+ Specific Air Range (SAR)              .10065 nm/kg
+ Emissions Index, NOx                  11.79 g/kg.
+ Available Total Thrust at MCR:        130030. newtons
+ Available Total Thrust at MCL:        139372. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 164800.kg.:
+ RoC at MCR, constant Mach 0.840:      1483. feet/min
+ RoC at MCR, constant 287.KCAS:        1012. feet/min
+ RoC at MCL, constant Mach 0.840:      1796. feet/min
+ RoC at MCL, constant 287.KCAS:        1225. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.840
+ Altitude (pressure)   35000. feet
+ KTAS                  484.2
+ KEAS                  269.5
+ KCAS                  287.1
+ Reynolds number       6.596  millions per metre
+ CL                    0.427  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01293    (60.3 %)
+ Cd Lift-Induced           0.00730    (34.1 %)
+ Cd Compressibility        0.00027    ( 1.3 %)
+ Cd Trim                   0.00065    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00028    ( 1.3 %)
+                           -------    --------
+ Cd Total                  0.02143    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.777  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.773  sq.metres  (38.0 %)
+ Stabiliser              0.373  sq.metres  ( 8.0 %)
+ Fin                     0.274  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.422  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.662  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.92 
+ =================================
+ Total Lift Force     1812278. newtons
+ Total Drag Force       90979. newtons (45489.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5076. kg/hr
+ Specific Fuel Consumption (SFC)       0.5472 kg/hr/kgf
+ Specific Air Range (SAR)              .09538 nm/kg
+ Emissions Index, NOx                  11.99 g/kg.
+ Available Total Thrust at MCR:        130030. newtons
+ Available Total Thrust at MCL:        139372. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 184800.kg.:
+ RoC at MCR, constant Mach 0.840:      1164. feet/min
+ RoC at MCR, constant 287.KCAS:        794. feet/min
+ RoC at MCL, constant Mach 0.840:      1443. feet/min
+ RoC at MCL, constant 287.KCAS:        984. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.840
+ Altitude (pressure)   35000. feet
+ KTAS                  484.2
+ KEAS                  269.5
+ KCAS                  287.1
+ Reynolds number       6.596  millions per metre
+ CL                    0.473  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01293    (56.4 %)
+ Cd Lift-Induced           0.00892    (38.9 %)
+ Cd Compressibility        0.00037    ( 1.6 %)
+ Cd Trim                   0.00067    ( 2.9 %)
+ Delta Cd (polar-mod)      0.00005    ( 0.2 %)
+                           -------    --------
+ Cd Total                  0.02294    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.777  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.773  sq.metres  (38.0 %)
+ Stabiliser              0.373  sq.metres  ( 8.0 %)
+ Fin                     0.274  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.422  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.662  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.62 
+ =================================
+ Total Lift Force     2008412. newtons
+ Total Drag Force       97381. newtons (48690.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5400. kg/hr
+ Specific Fuel Consumption (SFC)       0.5438 kg/hr/kgf
+ Specific Air Range (SAR)              .08966 nm/kg
+ Emissions Index, NOx                  12.21 g/kg.
+ Available Total Thrust at MCR:        130030. newtons
+ Available Total Thrust at MCL:        139372. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 204800.kg.:
+ RoC at MCR, constant Mach 0.840:      877. feet/min
+ RoC at MCR, constant 287.KCAS:        599. feet/min
+ RoC at MCL, constant Mach 0.840:      1129. feet/min
+ RoC at MCL, constant 287.KCAS:        770. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.840
+ Altitude (pressure)   35000. feet
+ KTAS                  484.2
+ KEAS                  269.5
+ KCAS                  287.1
+ Reynolds number       6.596  millions per metre
+ CL                    0.519  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01293    (52.0 %)
+ Cd Lift-Induced           0.01070    (43.0 %)
+ Cd Compressibility        0.00056    ( 2.2 %)
+ Cd Trim                   0.00068    ( 2.7 %)
+ Delta Cd (polar-mod)     -0.00001    (-0.0 %)
+                           -------    --------
+ Cd Total                  0.02486    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.777  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.773  sq.metres  (38.0 %)
+ Stabiliser              0.373  sq.metres  ( 8.0 %)
+ Fin                     0.274  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.422  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.662  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.89 
+ =================================
+ Total Lift Force     2204546. newtons
+ Total Drag Force      105544. newtons (52772.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5824. kg/hr
+ Specific Fuel Consumption (SFC)       0.5412 kg/hr/kgf
+ Specific Air Range (SAR)              .08314 nm/kg
+ Emissions Index, NOx                  12.47 g/kg.
+ Available Total Thrust at MCR:        130030. newtons
+ Available Total Thrust at MCL:        139372. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 224800.kg.:
+ RoC at MCR, constant Mach 0.840:      599. feet/min
+ RoC at MCR, constant 287.KCAS:        409. feet/min
+ RoC at MCL, constant Mach 0.840:      828. feet/min
+ RoC at MCL, constant 287.KCAS:        565. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.840
+ Altitude (pressure)   35000. feet
+ KTAS                  484.2
+ KEAS                  269.5
+ KCAS                  287.1
+ Reynolds number       6.596  millions per metre
+ CL                    0.566  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01293    (46.9 %)
+ Cd Lift-Induced           0.01264    (45.9 %)
+ Cd Compressibility        0.00091    ( 3.3 %)
+ Cd Trim                   0.00069    ( 2.5 %)
+ Delta Cd (polar-mod)      0.00039    ( 1.4 %)
+                           -------    --------
+ Cd Total                  0.02756    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.777  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.773  sq.metres  (38.0 %)
+ Stabiliser              0.373  sq.metres  ( 8.0 %)
+ Fin                     0.274  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.422  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.662  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 20.52 
+ =================================
+ Total Lift Force     2400680. newtons
+ Total Drag Force      116980. newtons (58490.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       6448. kg/hr
+ Specific Fuel Consumption (SFC)       0.5406 kg/hr/kgf
+ Specific Air Range (SAR)              .07509 nm/kg
+ Emissions Index, NOx                  12.86 g/kg.
+ Available Total Thrust at MCR:        130030. newtons
+ Available Total Thrust at MCL:        139372. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 244800.kg.:
+ RoC at MCR, constant Mach 0.840:      292. feet/min
+ RoC at MCR, constant 287.KCAS:        199. feet/min
+ RoC at MCL, constant Mach 0.840:      503. feet/min
+ RoC at MCL, constant 287.KCAS:        343. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.840
+ Altitude (pressure)   35000. feet
+ KTAS                  484.2
+ KEAS                  269.5
+ KCAS                  287.1
+ Reynolds number       6.596  millions per metre
+ CL                    0.612  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01293    (41.5 %)
+ Cd Lift-Induced           0.01473    (47.3 %)
+ Cd Compressibility        0.00153    ( 4.9 %)
+ Cd Trim                   0.00069    ( 2.2 %)
+ Delta Cd (polar-mod)      0.00128    ( 4.1 %)
+                           -------    --------
+ Cd Total                  0.03116    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.777  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.773  sq.metres  (38.0 %)
+ Stabiliser              0.373  sq.metres  ( 8.0 %)
+ Fin                     0.274  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.422  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.662  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.63 
+ =================================
+ Total Lift Force     2596814. newtons
+ Total Drag Force      132269. newtons (66134.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       7373. kg/hr
+ Specific Fuel Consumption (SFC)       0.5467 kg/hr/kgf
+ Specific Air Range (SAR)              .06567 nm/kg
+ Emissions Index, NOx                  13.60 g/kg.
+ Available Total Thrust at MCR:        130030. newtons
+ Available Total Thrust at MCL:        139372. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 264800.kg.:
+ RoC at MCR, constant Mach 0.840:      -48. feet/min
+ RoC at MCR, constant 287.KCAS:        -33. feet/min
+ RoC at MCL, constant Mach 0.840:      146. feet/min
+ RoC at MCL, constant 287.KCAS:        100. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.840
+ Altitude (pressure)   35000. feet
+ KTAS                  484.2
+ KEAS                  269.5
+ KCAS                  287.1
+ Reynolds number       6.596  millions per metre
+ CL                    0.658  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01293    (36.6 %)
+ Cd Lift-Induced           0.01696    (48.0 %)
+ Cd Compressibility        0.00256    ( 7.2 %)
+ Cd Trim                   0.00069    ( 1.9 %)
+ Delta Cd (polar-mod)      0.00219    ( 6.2 %)
+                           -------    --------
+ Cd Total                  0.03534    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.777  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.773  sq.metres  (38.0 %)
+ Stabiliser              0.373  sq.metres  ( 8.0 %)
+ Fin                     0.274  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.422  sq.metres  ( 9.0 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.662  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 18.62 
+ =================================
+ Total Lift Force     2792948. newtons
+ Total Drag Force      150005. newtons (75002.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       8700. kg/hr
+ Specific Fuel Consumption (SFC)       0.5688 kg/hr/kgf
+ Specific Air Range (SAR)              .05565 nm/kg
+ Emissions Index, NOx                  15.47 g/kg.
+ Available Total Thrust at MCR:        130030. newtons
+ Available Total Thrust at MCL:        139372. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 284800.kg.:
+ RoC at MCR, constant Mach 0.840:      -389. feet/min
+ RoC at MCR, constant 287.KCAS:        -265. feet/min
+ RoC at MCL, constant Mach 0.840:      -208. feet/min
+ RoC at MCL, constant 287.KCAS:        -142. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.860
+ Altitude (pressure)   35000. feet
+ KTAS                  495.7
+ KEAS                  276.0
+ KCAS                  294.8
+ Reynolds number       6.753  millions per metre
+ CL                    0.231  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01286    (74.1 %)
+ Cd Lift-Induced           0.00219    (12.6 %)
+ Cd Compressibility        0.00030    ( 1.7 %)
+ Cd Trim                   0.00051    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00150    ( 8.6 %)
+                           -------    --------
+ Cd Total                  0.01736    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.766  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.763  sq.metres  (38.0 %)
+ Stabiliser              0.370  sq.metres  ( 8.0 %)
+ Fin                     0.272  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.421  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.636  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 13.31 
+ =================================
+ Total Lift Force     1027742. newtons
+ Total Drag Force       77242. newtons (38621.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4462. kg/hr
+ Specific Fuel Consumption (SFC)       0.5665 kg/hr/kgf
+ Specific Air Range (SAR)              .11111 nm/kg
+ Emissions Index, NOx                  11.51 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140244. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 104800.kg.:
+ RoC at MCR, constant Mach 0.860:      2897. feet/min
+ RoC at MCR, constant 295.KCAS:        1947. feet/min
+ RoC at MCL, constant Mach 0.860:      3410. feet/min
+ RoC at MCL, constant 295.KCAS:        2292. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.860
+ Altitude (pressure)   35000. feet
+ KTAS                  495.7
+ KEAS                  276.0
+ KCAS                  294.8
+ Reynolds number       6.753  millions per metre
+ CL                    0.275  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01286    (71.2 %)
+ Cd Lift-Induced           0.00308    (17.0 %)
+ Cd Compressibility        0.00034    ( 1.9 %)
+ Cd Trim                   0.00055    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00122    ( 6.8 %)
+                           -------    --------
+ Cd Total                  0.01805    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.766  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.763  sq.metres  (38.0 %)
+ Stabiliser              0.370  sq.metres  ( 8.0 %)
+ Fin                     0.272  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.421  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.636  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 15.24 
+ =================================
+ Total Lift Force     1223876. newtons
+ Total Drag Force       80327. newtons (40163.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4614. kg/hr
+ Specific Fuel Consumption (SFC)       0.5633 kg/hr/kgf
+ Specific Air Range (SAR)              .10744 nm/kg
+ Emissions Index, NOx                  11.65 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140244. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 124800.kg.:
+ RoC at MCR, constant Mach 0.860:      2292. feet/min
+ RoC at MCR, constant 295.KCAS:        1541. feet/min
+ RoC at MCL, constant Mach 0.860:      2723. feet/min
+ RoC at MCL, constant 295.KCAS:        1830. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.860
+ Altitude (pressure)   35000. feet
+ KTAS                  495.7
+ KEAS                  276.0
+ KCAS                  294.8
+ Reynolds number       6.753  millions per metre
+ CL                    0.319  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01286    (68.0 %)
+ Cd Lift-Induced           0.00412    (21.8 %)
+ Cd Compressibility        0.00040    ( 2.1 %)
+ Cd Trim                   0.00059    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00095    ( 5.0 %)
+                           -------    --------
+ Cd Total                  0.01891    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.766  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.763  sq.metres  (38.0 %)
+ Stabiliser              0.370  sq.metres  ( 8.0 %)
+ Fin                     0.272  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.421  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.636  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 16.88 
+ =================================
+ Total Lift Force     1420010. newtons
+ Total Drag Force       84139. newtons (42069.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4804. kg/hr
+ Specific Fuel Consumption (SFC)       0.5599 kg/hr/kgf
+ Specific Air Range (SAR)              .10319 nm/kg
+ Emissions Index, NOx                  11.81 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140244. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 144800.kg.:
+ RoC at MCR, constant Mach 0.860:      1826. feet/min
+ RoC at MCR, constant 295.KCAS:        1228. feet/min
+ RoC at MCL, constant Mach 0.860:      2197. feet/min
+ RoC at MCL, constant 295.KCAS:        1477. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.860
+ Altitude (pressure)   35000. feet
+ KTAS                  495.7
+ KEAS                  276.0
+ KCAS                  294.8
+ Reynolds number       6.753  millions per metre
+ CL                    0.363  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01286    (64.4 %)
+ Cd Lift-Induced           0.00530    (26.6 %)
+ Cd Compressibility        0.00051    ( 2.5 %)
+ Cd Trim                   0.00062    ( 3.1 %)
+ Delta Cd (polar-mod)      0.00067    ( 3.4 %)
+                           -------    --------
+ Cd Total                  0.01996    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.766  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.763  sq.metres  (38.0 %)
+ Stabiliser              0.370  sq.metres  ( 8.0 %)
+ Fin                     0.272  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.421  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.636  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 18.20 
+ =================================
+ Total Lift Force     1616144. newtons
+ Total Drag Force       88791. newtons (44396.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5038. kg/hr
+ Specific Fuel Consumption (SFC)       0.5564 kg/hr/kgf
+ Specific Air Range (SAR)              .09841 nm/kg
+ Emissions Index, NOx                  11.99 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140244. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 164800.kg.:
+ RoC at MCR, constant Mach 0.860:      1444. feet/min
+ RoC at MCR, constant 295.KCAS:        971. feet/min
+ RoC at MCL, constant Mach 0.860:      1770. feet/min
+ RoC at MCL, constant 295.KCAS:        1190. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.860
+ Altitude (pressure)   35000. feet
+ KTAS                  495.7
+ KEAS                  276.0
+ KCAS                  294.8
+ Reynolds number       6.753  millions per metre
+ CL                    0.407  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01286    (60.5 %)
+ Cd Lift-Induced           0.00663    (31.2 %)
+ Cd Compressibility        0.00071    ( 3.4 %)
+ Cd Trim                   0.00064    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00040    ( 1.9 %)
+                           -------    --------
+ Cd Total                  0.02124    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.766  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.763  sq.metres  (38.0 %)
+ Stabiliser              0.370  sq.metres  ( 8.0 %)
+ Fin                     0.272  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.421  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.636  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.18 
+ =================================
+ Total Lift Force     1812278. newtons
+ Total Drag Force       94506. newtons (47253.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5327. kg/hr
+ Specific Fuel Consumption (SFC)       0.5528 kg/hr/kgf
+ Specific Air Range (SAR)              .09305 nm/kg
+ Emissions Index, NOx                  12.19 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140244. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 184800.kg.:
+ RoC at MCR, constant Mach 0.860:      1112. feet/min
+ RoC at MCR, constant 295.KCAS:        748. feet/min
+ RoC at MCL, constant Mach 0.860:      1403. feet/min
+ RoC at MCL, constant 295.KCAS:        943. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.860
+ Altitude (pressure)   35000. feet
+ KTAS                  495.7
+ KEAS                  276.0
+ KCAS                  294.8
+ Reynolds number       6.753  millions per metre
+ CL                    0.451  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01286    (56.3 %)
+ Cd Lift-Induced           0.00811    (35.5 %)
+ Cd Compressibility        0.00108    ( 4.7 %)
+ Cd Trim                   0.00066    ( 2.9 %)
+ Delta Cd (polar-mod)      0.00014    ( 0.6 %)
+                           -------    --------
+ Cd Total                  0.02285    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.766  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.763  sq.metres  (38.0 %)
+ Stabiliser              0.370  sq.metres  ( 8.0 %)
+ Fin                     0.272  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.421  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.636  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.75 
+ =================================
+ Total Lift Force     2008412. newtons
+ Total Drag Force      101678. newtons (50839.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5698. kg/hr
+ Specific Fuel Consumption (SFC)       0.5496 kg/hr/kgf
+ Specific Air Range (SAR)              .08699 nm/kg
+ Emissions Index, NOx                  12.42 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140244. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 204800.kg.:
+ RoC at MCR, constant Mach 0.860:      805. feet/min
+ RoC at MCR, constant 295.KCAS:        541. feet/min
+ RoC at MCL, constant Mach 0.860:      1067. feet/min
+ RoC at MCL, constant 295.KCAS:        717. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.860
+ Altitude (pressure)   35000. feet
+ KTAS                  495.7
+ KEAS                  276.0
+ KCAS                  294.8
+ Reynolds number       6.753  millions per metre
+ CL                    0.495  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01286    (51.5 %)
+ Cd Lift-Induced           0.00973    (39.0 %)
+ Cd Compressibility        0.00171    ( 6.9 %)
+ Cd Trim                   0.00067    ( 2.7 %)
+ Delta Cd (polar-mod)     -0.00001    (-0.1 %)
+                           -------    --------
+ Cd Total                  0.02496    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.766  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.763  sq.metres  (38.0 %)
+ Stabiliser              0.370  sq.metres  ( 8.0 %)
+ Fin                     0.272  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.421  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.636  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.85 
+ =================================
+ Total Lift Force     2204546. newtons
+ Total Drag Force      111073. newtons (55537.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       6201. kg/hr
+ Specific Fuel Consumption (SFC)       0.5475 kg/hr/kgf
+ Specific Air Range (SAR)              .07994 nm/kg
+ Emissions Index, NOx                  12.73 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140244. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 224800.kg.:
+ RoC at MCR, constant Mach 0.860:      496. feet/min
+ RoC at MCR, constant 295.KCAS:        333. feet/min
+ RoC at MCL, constant Mach 0.860:      735. feet/min
+ RoC at MCL, constant 295.KCAS:        494. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.860
+ Altitude (pressure)   35000. feet
+ KTAS                  495.7
+ KEAS                  276.0
+ KCAS                  294.8
+ Reynolds number       6.753  millions per metre
+ CL                    0.540  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01286    (46.2 %)
+ Cd Lift-Induced           0.01149    (41.3 %)
+ Cd Compressibility        0.00273    ( 9.8 %)
+ Cd Trim                   0.00068    ( 2.5 %)
+ Delta Cd (polar-mod)      0.00006    ( 0.2 %)
+                           -------    --------
+ Cd Total                  0.02783    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.766  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.763  sq.metres  (38.0 %)
+ Stabiliser              0.370  sq.metres  ( 8.0 %)
+ Fin                     0.272  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.421  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.636  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 19.39 
+ =================================
+ Total Lift Force     2400680. newtons
+ Total Drag Force      123825. newtons (61913.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       6927. kg/hr
+ Specific Fuel Consumption (SFC)       0.5486 kg/hr/kgf
+ Specific Air Range (SAR)              .07157 nm/kg
+ Emissions Index, NOx                  13.24 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140244. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 244800.kg.:
+ RoC at MCR, constant Mach 0.860:      160. feet/min
+ RoC at MCR, constant 295.KCAS:        107. feet/min
+ RoC at MCL, constant Mach 0.860:      379. feet/min
+ RoC at MCL, constant 295.KCAS:        255. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.860
+ Altitude (pressure)   35000. feet
+ KTAS                  495.7
+ KEAS                  276.0
+ KCAS                  294.8
+ Reynolds number       6.753  millions per metre
+ CL                    0.584  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01286    (40.2 %)
+ Cd Lift-Induced           0.01339    (41.9 %)
+ Cd Compressibility        0.00430    (13.4 %)
+ Cd Trim                   0.00069    ( 2.2 %)
+ Delta Cd (polar-mod)      0.00072    ( 2.3 %)
+                           -------    --------
+ Cd Total                  0.03196    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.766  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.763  sq.metres  (38.0 %)
+ Stabiliser              0.370  sq.metres  ( 8.0 %)
+ Fin                     0.272  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.421  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.636  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 18.26 
+ =================================
+ Total Lift Force     2596814. newtons
+ Total Drag Force      142212. newtons (71106.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       8147. kg/hr
+ Specific Fuel Consumption (SFC)       0.5618 kg/hr/kgf
+ Specific Air Range (SAR)              .06085 nm/kg
+ Emissions Index, NOx                  14.62 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140244. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 264800.kg.:
+ RoC at MCR, constant Mach 0.860:      -247. feet/min
+ RoC at MCR, constant 295.KCAS:        -166. feet/min
+ RoC at MCL, constant Mach 0.860:      -44. feet/min
+ RoC at MCL, constant 295.KCAS:        -29. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.860
+ Altitude (pressure)   35000. feet
+ KTAS                  495.7
+ KEAS                  276.0
+ KCAS                  294.8
+ Reynolds number       6.753  millions per metre
+ CL                    0.628  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01286    (34.6 %)
+ Cd Lift-Induced           0.01543    (41.5 %)
+ Cd Compressibility        0.00661    (17.8 %)
+ Cd Trim                   0.00069    ( 1.8 %)
+ Delta Cd (polar-mod)      0.00160    ( 4.3 %)
+                           -------    --------
+ Cd Total                  0.03719    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.766  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.763  sq.metres  (38.0 %)
+ Stabiliser              0.370  sq.metres  ( 8.0 %)
+ Fin                     0.272  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.421  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.636  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 16.88 
+ =================================
+ Total Lift Force     2792948. newtons
+ Total Drag Force      165458. newtons (82729.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       10121. kg/hr
+ Specific Fuel Consumption (SFC)       0.5999 kg/hr/kgf
+ Specific Air Range (SAR)              .04898 nm/kg
+ Emissions Index, NOx                  19.22 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140244. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 284800.kg.:
+ RoC at MCR, constant Mach 0.860:      -693. feet/min
+ RoC at MCR, constant 295.KCAS:        -466. feet/min
+ RoC at MCL, constant Mach 0.860:      -504. feet/min
+ RoC at MCL, constant 295.KCAS:        -339. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.221  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (73.3 %)
+ Cd Lift-Induced           0.00198    (11.4 %)
+ Cd Compressibility        0.00061    ( 3.5 %)
+ Cd Trim                   0.00050    ( 2.9 %)
+ Delta Cd (polar-mod)      0.00157    ( 9.0 %)
+                           -------    --------
+ Cd Total                  0.01744    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 12.65 
+ =================================
+ Total Lift Force     1027742. newtons
+ Total Drag Force       81261. newtons (40631.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4723. kg/hr
+ Specific Fuel Consumption (SFC)       0.5699 kg/hr/kgf
+ Specific Air Range (SAR)              .10741 nm/kg
+ Emissions Index, NOx                  11.77 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 104800.kg.:
+ RoC at MCR, constant Mach 0.880:      2757. feet/min
+ RoC at MCR, constant 303.KCAS:        1826. feet/min
+ RoC at MCL, constant Mach 0.880:      3299. feet/min
+ RoC at MCL, constant 303.KCAS:        2185. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.263  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (70.4 %)
+ Cd Lift-Induced           0.00279    (15.3 %)
+ Cd Compressibility        0.00075    ( 4.1 %)
+ Cd Trim                   0.00054    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00130    ( 7.2 %)
+                           -------    --------
+ Cd Total                  0.01816    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 14.46 
+ =================================
+ Total Lift Force     1223876. newtons
+ Total Drag Force       84623. newtons (42312.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       4892. kg/hr
+ Specific Fuel Consumption (SFC)       0.5669 kg/hr/kgf
+ Specific Air Range (SAR)              .10369 nm/kg
+ Emissions Index, NOx                  11.90 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 124800.kg.:
+ RoC at MCR, constant Mach 0.880:      2158. feet/min
+ RoC at MCR, constant 303.KCAS:        1429. feet/min
+ RoC at MCL, constant Mach 0.880:      2613. feet/min
+ RoC at MCL, constant 303.KCAS:        1730. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.305  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (66.8 %)
+ Cd Lift-Induced           0.00373    (19.5 %)
+ Cd Compressibility        0.00101    ( 5.3 %)
+ Cd Trim                   0.00057    ( 3.0 %)
+ Delta Cd (polar-mod)      0.00104    ( 5.4 %)
+                           -------    --------
+ Cd Total                  0.01914    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 15.93 
+ =================================
+ Total Lift Force     1420010. newtons
+ Total Drag Force       89149. newtons (44575.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5122. kg/hr
+ Specific Fuel Consumption (SFC)       0.5634 kg/hr/kgf
+ Specific Air Range (SAR)              .09904 nm/kg
+ Emissions Index, NOx                  12.07 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 144800.kg.:
+ RoC at MCR, constant Mach 0.880:      1677. feet/min
+ RoC at MCR, constant 303.KCAS:        1111. feet/min
+ RoC at MCL, constant Mach 0.880:      2069. feet/min
+ RoC at MCL, constant 303.KCAS:        1371. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.347  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (62.7 %)
+ Cd Lift-Induced           0.00481    (23.5 %)
+ Cd Compressibility        0.00144    ( 7.1 %)
+ Cd Trim                   0.00060    ( 2.9 %)
+ Delta Cd (polar-mod)      0.00077    ( 3.8 %)
+                           -------    --------
+ Cd Total                  0.02041    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 16.99 
+ =================================
+ Total Lift Force     1616144. newtons
+ Total Drag Force       95103. newtons (47552.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5428. kg/hr
+ Specific Fuel Consumption (SFC)       0.5597 kg/hr/kgf
+ Specific Air Range (SAR)              .09346 nm/kg
+ Emissions Index, NOx                  12.28 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 164800.kg.:
+ RoC at MCR, constant Mach 0.880:      1263. feet/min
+ RoC at MCR, constant 303.KCAS:        836. feet/min
+ RoC at MCL, constant Mach 0.880:      1607. feet/min
+ RoC at MCL, constant 303.KCAS:        1064. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.389  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (57.9 %)
+ Cd Lift-Induced           0.00602    (27.2 %)
+ Cd Compressibility        0.00216    ( 9.8 %)
+ Cd Trim                   0.00063    ( 2.8 %)
+ Delta Cd (polar-mod)      0.00051    ( 2.3 %)
+                           -------    --------
+ Cd Total                  0.02210    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 17.60 
+ =================================
+ Total Lift Force     1812278. newtons
+ Total Drag Force      102954. newtons (51477.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       5839. kg/hr
+ Specific Fuel Consumption (SFC)       0.5562 kg/hr/kgf
+ Specific Air Range (SAR)              .08687 nm/kg
+ Emissions Index, NOx                  12.53 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 184800.kg.:
+ RoC at MCR, constant Mach 0.880:      878. feet/min
+ RoC at MCR, constant 303.KCAS:        582. feet/min
+ RoC at MCL, constant Mach 0.880:      1185. feet/min
+ RoC at MCL, constant 303.KCAS:        785. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.431  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (52.6 %)
+ Cd Lift-Induced           0.00736    (30.3 %)
+ Cd Compressibility        0.00327    (13.4 %)
+ Cd Trim                   0.00065    ( 2.7 %)
+ Delta Cd (polar-mod)      0.00025    ( 1.0 %)
+                           -------    --------
+ Cd Total                  0.02431    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 17.73 
+ =================================
+ Total Lift Force     2008412. newtons
+ Total Drag Force      113277. newtons (56638.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       6401. kg/hr
+ Specific Fuel Consumption (SFC)       0.5541 kg/hr/kgf
+ Specific Air Range (SAR)              .07925 nm/kg
+ Emissions Index, NOx                  12.89 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 204800.kg.:
+ RoC at MCR, constant Mach 0.880:      498. feet/min
+ RoC at MCR, constant 303.KCAS:        330. feet/min
+ RoC at MCL, constant Mach 0.880:      775. feet/min
+ RoC at MCL, constant 303.KCAS:        513. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.473  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (46.9 %)
+ Cd Lift-Induced           0.00884    (32.4 %)
+ Cd Compressibility        0.00492    (18.1 %)
+ Cd Trim                   0.00066    ( 2.4 %)
+ Delta Cd (polar-mod)      0.00005    ( 0.2 %)
+                           -------    --------
+ Cd Total                  0.02726    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 17.36 
+ =================================
+ Total Lift Force     2204546. newtons
+ Total Drag Force      126986. newtons (63493.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       7198. kg/hr
+ Specific Fuel Consumption (SFC)       0.5559 kg/hr/kgf
+ Specific Air Range (SAR)              .07048 nm/kg
+ Emissions Index, NOx                  13.53 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 224800.kg.:
+ RoC at MCR, constant Mach 0.880:      97. feet/min
+ RoC at MCR, constant 303.KCAS:        64. feet/min
+ RoC at MCL, constant Mach 0.880:      350. feet/min
+ RoC at MCL, constant 303.KCAS:        232. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.515  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (41.0 %)
+ Cd Lift-Induced           0.01044    (33.5 %)
+ Cd Compressibility        0.00731    (23.4 %)
+ Cd Trim                   0.00068    ( 2.2 %)
+ Delta Cd (polar-mod)     -0.00002    (-0.1 %)
+                           -------    --------
+ Cd Total                  0.03120    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 16.52 
+ =================================
+ Total Lift Force     2400680. newtons
+ Total Drag Force      145348. newtons (72674.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       8458. kg/hr
+ Specific Fuel Consumption (SFC)       0.5706 kg/hr/kgf
+ Specific Air Range (SAR)              .05998 nm/kg
+ Emissions Index, NOx                  15.24 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 244800.kg.:
+ RoC at MCR, constant Mach 0.880:      -349. feet/min
+ RoC at MCR, constant 303.KCAS:        -231. feet/min
+ RoC at MCL, constant Mach 0.880:      -117. feet/min
+ RoC at MCL, constant 303.KCAS:        -77. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.557  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (35.0 %)
+ Cd Lift-Induced           0.01218    (33.3 %)
+ Cd Compressibility        0.01064    (29.1 %)
+ Cd Trim                   0.00068    ( 1.9 %)
+ Delta Cd (polar-mod)      0.00026    ( 0.7 %)
+                           -------    --------
+ Cd Total                  0.03655    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 15.25 
+ =================================
+ Total Lift Force     2596814. newtons
+ Total Drag Force      170298. newtons (85149.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       10591. kg/hr
+ Specific Fuel Consumption (SFC)       0.6099 kg/hr/kgf
+ Specific Air Range (SAR)              .04789 nm/kg
+ Emissions Index, NOx                  20.84 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 264800.kg.:
+ RoC at MCR, constant Mach 0.880:      -873. feet/min
+ RoC at MCR, constant 303.KCAS:        -578. feet/min
+ RoC at MCL, constant Mach 0.880:      -658. feet/min
+ RoC at MCL, constant 303.KCAS:        -436. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.599  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (29.2 %)
+ Cd Lift-Induced           0.01404    (32.1 %)
+ Cd Compressibility        0.01519    (34.7 %)
+ Cd Trim                   0.00068    ( 1.6 %)
+ Delta Cd (polar-mod)      0.00104    ( 2.4 %)
+                           -------    --------
+ Cd Total                  0.04374    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 13.70 
+ =================================
+ Total Lift Force     2792948. newtons
+ Total Drag Force      203791. newtons (101895.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       13528. kg/hr
+ Specific Fuel Consumption (SFC)       0.6510 kg/hr/kgf
+ Specific Air Range (SAR)              .03750 nm/kg
+ Emissions Index, NOx                  29.78 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 284800.kg.:
+ RoC at MCR, constant Mach 0.880:      -1498. feet/min
+ RoC at MCR, constant 303.KCAS:        -992. feet/min
+ RoC at MCL, constant Mach 0.880:      -1299. feet/min
+ RoC at MCL, constant 303.KCAS:        -860. feet/min
+
+
+ AERODYNAMIC DRAG REPORT at:
+ ___________________________
+
+ MACH                  0.880
+ Altitude (pressure)   35000. feet
+ KTAS                  507.3
+ KEAS                  282.4
+ KCAS                  302.5
+ Reynolds number       6.910  millions per metre
+ CL                    0.642  based on:
+ Reference Area        360.46 sq.metres  (wimpress)
+
+ Drag Coefficients based on ref.area
+ -----------------------------------
+ Cd Zero-Lift              0.01279    (24.3 %)
+ Cd Lift-Induced           0.01603    (30.5 %)
+ Cd Compressibility        0.02125    (40.4 %)
+ Cd Trim                   0.00068    ( 1.3 %)
+ Delta Cd (polar-mod)      0.00187    ( 3.6 %)
+                           -------    --------
+ Cd Total                  0.05262    ( 100 %)
+
+ Zero-Lift Component Breakdown (Drag Areas,= Cd*S = D/q)
+ -----------------------------
+ Wing                    1.755  sq.metres  (38.1 %)
+ Winglets                0.013  sq.metres  ( 0.3 %)
+ Fuselage & fairing      1.753  sq.metres  (38.0 %)
+ Stabiliser              0.368  sq.metres  ( 8.0 %)
+ Fin                     0.270  sq.metres  ( 5.9 %)  
+ Nacelles (total)        0.420  sq.metres  ( 9.1 %)
+ User CdS Increment      0.031  sq.metres  ( 0.7 %)
+                       -------             --------
+ Total Cd0*S             4.610  sq.metres  ( 100 %)
+
+ Overall Lift / Drag Ratio = 12.19 
+ =================================
+ Total Lift Force     2989082. newtons
+ Total Drag Force      245142. newtons (122571.newtons per engine) 
+
+ Engine / Airframe Performance:
+ ------------------------------
+ Total Fuel Flow at Thrust=Drag:       17154. kg/hr
+ Specific Fuel Consumption (SFC)       0.6862 kg/hr/kgf
+ Specific Air Range (SAR)              .02957 nm/kg
+ Emissions Index, NOx                  40.81 g/kg.
+ Available Total Thrust at MCR:        130778. newtons
+ Available Total Thrust at MCL:        140493. newtons
+
+ Instantaneous Performance Reserves
+ at Weight = Lift = 304800.kg.:
+ RoC at MCR, constant Mach 0.880:      -2192. feet/min
+ RoC at MCR, constant 303.KCAS:        -1452. feet/min
+ RoC at MCL, constant Mach 0.880:      -2006. feet/min
+ RoC at MCL, constant 303.KCAS:        -1329. feet/min

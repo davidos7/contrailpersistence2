@@ -1,0 +1,11 @@
+name: CFM56-5B4
+OPR:            27.3    # ICAO Aircraft Engine Emissions Databank, differs between -5B3 and -5B4
+FPR:            1.7     # GasTurb data file
+BPR:            5.7     # CFM website, differs between -5B3 and -5B4
+COT:            1585    # GasTurb data file13
+eta_fan:        0.92    # unknown
+eta_compressor: 0.89    # GasTurb data file
+eta_turbine:    0.85    # GasTurb data file
+eta_transfer:   0.9     # unknown
+d_in:           1.735   # CFM website
+type:           "turbofan"

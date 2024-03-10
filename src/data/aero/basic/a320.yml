@@ -1,0 +1,13 @@
+#cd0:        0.018 # 0.018
+#k:          0.039 # 0.039
+#crit_Mach:  0.68 # 0.632
+
+cd0:             0.0206
+k2:              0.00503
+k1:              0.0456
+stall_component: false
+#cd0:        0.043
+#k:          0.0334
+#crit_Mach:  0.99
+
+# Source https://www.sesarju.eu/sites/default/files/documents/sid/2018/papers/SIDs_2018_paper_75.pdf

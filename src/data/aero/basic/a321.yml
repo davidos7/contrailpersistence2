@@ -1,0 +1,8 @@
+#cd0:        0.026
+#k:          0.043
+#crit_Mach:  0.632
+
+cd0:             0.0206
+k2:              0.00503
+k1:              0.0456
+stall_component: false

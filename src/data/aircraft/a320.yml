@@ -1,0 +1,40 @@
+name: Airbus A320
+# All units SI unless indicated otherwise
+dimensions:
+    overall_length:             37.57
+    fuselage_width:             3.95
+    fuselage_length:            37.57   # https://booksite.elsevier.com/9780340741528/appendices/data-a/table-1/table.htm
+    fuselage_diameter:          4.05    # same source as above, Average of 4.14 height, 3.95 width
+    wing_area:                  124
+    wingspan:                   34.1    # 35.8 including sharklets
+    chord_root:                 6.07    # Optional
+    chord_tip:                  1.5     # Optional
+    thickness_to_chord:         0.148   # Average for model
+    root_t_c:                   0.152
+    tip_t_c:                    0.108
+    wing_sweep:                 25
+    airfoil_tech_f:             0.95    # 0.95 for supercritical, 0.87 for older conventional
+    wing_weight:                9.15    # tonnes
+
+capacity:
+    max_seating:                180
+    water_volume:               44
+    cargo_length:               14.75
+    centre_tank_gap:            6.65
+    seat_pitch_inch:            29
+    seats_per_row:              6
+
+performance:
+    cruise_Mach:                0.78
+    max_Mach:                   0.82
+    MTOW:                       78.00   # t
+    MLW:                        66.00   # t
+    MZFW:                       62.50   # t
+    OEW:                        42.60   # t
+    max_fuel_capacity:          27200   # L
+    ceiling:                    12500
+
+fuel_burn:
+    k:                          0.016
+    engines:                    2
+    climb_range_factor_ratio:   0.838

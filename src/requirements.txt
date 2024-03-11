@@ -5,3 +5,5 @@ dash-tools
 matplotlib
 numpy
 netCDF4
+ambiance
+cartopy

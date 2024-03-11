@@ -16,15 +16,15 @@ from meteorological import plt_meteorological_contour_averaged_month_and_longitu
 
 overpayment_factor_array = np.arange(0, 10, 0.1)
 
-app = Dash(__name__, title="MyDashApp")
+my_app = Dash(__name__, title="MyDashApp")
 
 # Declare server for Heroku deployment. Needed for Procfile.
-server = app.server
+server = my_app.server
 
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options
 
-app.layout = dbc.Container([
+my_app.layout = dbc.Container([
     html.H1("Contrail Persistence Viewer", className='mb-2', style={'textAlign': 'left',"font-weight":"bold","font-family":"arial"}),
     html.H4("David Barton, 2024 - Optimised for Mobile Viewing", className='mb-2', style={'textAlign': 'left',"font-family":"arial"}),
     html.H5("The aim of this tool is to indicate the altitudes where cruising\naircraft would not produce long-lasting contrails, which are one\nof the leading causes of aviation's climate impact. The approach\nused to develop these plots is detailed in the associated paper\n(doi.org/10.3390/aerospace10080688) to which this work contributed.",
@@ -108,7 +108,7 @@ dbc.Row([
 ])
 
 # Create interactivity between dropdown component and graph
-@app.callback(
+@my_app.callback(
     Output(component_id='bar-graph-matplotlib', component_property='src'),
     Input('year', 'value'),
     Input('issr_limit', 'value'),
@@ -146,4 +146,4 @@ def plot_data(year,issr_limit,month):
     return fig_bar_matplotlib
 
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    my_app.run_server(debug=True)
